@@ -1,0 +1,3 @@
+    list all the users in the project and check if they are available
+        popup on hover over user that shows their skills
+
